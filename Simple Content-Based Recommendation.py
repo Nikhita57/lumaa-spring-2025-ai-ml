@@ -68,16 +68,3 @@ for i in range(len(summaries)-1):
 print(topThree)
 # Close file
 f.close()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
