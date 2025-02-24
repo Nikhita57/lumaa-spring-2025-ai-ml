@@ -8,7 +8,7 @@ This program uses Python 3.
 
 ## Running
 This program can be run on Jupyter Notebook. Open the Simple Content-based Recommendation.py and BookList.txt files in Jupyter Notebook and select "Run" in the Simple Content-based Recommendation.py file.
-(Salary expectation per month: $1000)
+(Salary expectation per month: $2500)
 
 ## Results
 Example:
